@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Typing effect in Hero
     const textArray = [
         "Recruiting Coordinator.",
+        "Administrative Assistant.",
         "HR Coordinator.",
         "Talent Acquisition Professional.",
         "Technical Recruiter.",
